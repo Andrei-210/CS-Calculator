@@ -26,5 +26,10 @@ namespace Calculator
         {
 
         }
+
+        private void artanButton1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

@@ -46,7 +46,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="ArtanButton.cs" />
+    <Compile Include="ArtanButton.cs">
+      <SubType>Component</SubType>
+    </Compile>
     <Compile Include="ArtanElipseControl.cs">
       <SubType>Component</SubType>
     </Compile>
