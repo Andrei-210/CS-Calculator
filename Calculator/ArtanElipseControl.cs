@@ -16,7 +16,6 @@ namespace Calculator
 
         private static extern IntPtr CreateRoundRectRgn(int nL, int nT, int nR, int nB, int nWidthEllipse, int nHeightEllipse);
 
-
         private Control control;
         private int cornerRadius = 25;
 
